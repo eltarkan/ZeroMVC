@@ -1,2 +1,8 @@
 # ZeroMVC
-Yeni başlayanlar için projelerimde kullandığım MVC mimarisini sunuyorum.
+Hello
+</br>
+This is ZeroMVC lite version, i made this for my web projects.
+</br>
+Maybe ZeroMVC can help you understand about MVC architecture.
+</br>
+Best Regards :)
